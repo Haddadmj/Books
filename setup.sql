@@ -1,0 +1,4 @@
+CREATE DATABASE bookshelf;
+CREATE DATABASE bookshelf_test;
+GRANT ALL PRIVILEGES ON DATABASE bookshelf TO mohammad;
+GRANT ALL PRIVILEGES ON DATABASE bookshelf_test TO mohammad;
